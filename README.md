@@ -5,4 +5,4 @@
 
 __tebal_tebal__
 _miring-teks_
-[link ke my default branch](https://github.com/mik-sea/learn-git/tree/master,"pergi ke link default master")
+[link default branch](https://github.com/mik-sea/learn-git/tree/master,"default branch")
