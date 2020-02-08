@@ -18,3 +18,10 @@ _miring-teks_
 |----|---|
 |Nas |20 |
 |val |18 |
+
+**Membuat Code def in python**
+
+```python
+def hello():
+    print("Hello World")
+```
