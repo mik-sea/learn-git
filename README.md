@@ -1,3 +1,3 @@
 # learn-git
-#edit lagi
+#edit
 Belajar git push
