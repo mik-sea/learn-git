@@ -1,2 +1,2 @@
 # learn-git
-belajar push git
+belaar push git eaa
