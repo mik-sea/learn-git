@@ -19,7 +19,7 @@ _miring-teks_
 |Nas |20 |
 |val |18 |
 
-**Membuat Function def in python*
+**Membuat Function def in python**
 
 **Membuat Function def in python**
 
