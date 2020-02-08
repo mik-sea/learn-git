@@ -21,6 +21,8 @@ _miring-teks_
 
 **Membuat Function def in python**
 
+**Membuat Function def in python**
+
 ```python
 def hello():
     print("Hello World")
